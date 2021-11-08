@@ -1,4 +1,6 @@
 Este es el primer documento txt del reto 1 de git del ciclo 4 para el grupo 42 presentado por Angie Pilonieta
 Angie Pilonieta Es ingeniera Industrial de la universidad de la salle
 Angie Monta bicicleta.
-Angie espera culminar con exito el programa de Mision TIC.
+Angie espera culminar con exito el programa de Mision TIC. 
+
+modificacion 2 del primera arhivo para preparalo nuevamente

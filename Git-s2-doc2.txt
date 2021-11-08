@@ -1,0 +1,5 @@
+Este es el segundo documento txt del reto 1 de git del ciclo 4 para el grupo 42 presentado por Angie Pilonieta
+Angie es santandereana nacida en San gil
+Angie recibió la beca Ser Pilo Paga del Gobierno de Juan Manuel Santos.
+de lo contrario Angie Hubiera estudiado en santander en una universidad de bucaramanga posiblemente.
+Gracias Dios.
